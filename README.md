@@ -1,4 +1,4 @@
-# cpanel-api-add-subdomain-
+# cpanel-api-add-subdomain
 create subdomain with php script
 
 
